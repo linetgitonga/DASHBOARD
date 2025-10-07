@@ -57,7 +57,7 @@ export default function TopNav() {
             Dashboard
           </Link>
           <span>/</span>
-          <span className="text-gray-900 dark:text-white font-medium">CMS</span>
+          <span className="text-gray-900 dark:text-white font-medium">Sample</span>
         </nav>
       </div>
 

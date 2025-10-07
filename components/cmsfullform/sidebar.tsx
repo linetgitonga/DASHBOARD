@@ -926,7 +926,7 @@ export default function Sidebar() {
             {/* Header */}
             <div className="h-16 px-3 flex items-center border-b border-gray-200 dark:border-[#1F1F23]">
               <Link
-                href="https://cmsfullform.com/"
+                href="https://www.softwaredevkenya.tech/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 w-full"
@@ -1004,27 +1004,27 @@ export default function Sidebar() {
           <div className="h-16 px-3 flex items-center border-b border-gray-200 dark:border-[#1F1F23]">
             {showText ? (
               <Link
-                href="https://cmsfullform.com/"
+                href="https://www.softwaredevkenya.tech/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 w-full"
               >
-                <img
-                  src="https://cmsfullform.com/themes/cmsfullform/Backend/Assets/favicon/apple-icon-60x60.png"
-                  alt="CMSFullForm"
+                {/* <img
+                  src="https://www.softwaredevkenya.tech/favicon/apple-icon-60x60.png"
+                  alt="Sample Dashboard"
                   width={32}
                   height={32}
                   className="flex-shrink-0 hidden dark:block"
                 />
                 <img
-                  src="https://cmsfullform.com/themes/cmsfullform/Backend/Assets/favicon/apple-icon-60x60.png"
-                  alt="CMSFullForm"
+                  src=""
+                  alt="Sample Dashboard"
                   width={32}
                   height={32}
                   className="flex-shrink-0 block dark:hidden"
-                />
+                /> */}
                 <span className="text-lg font-semibold hover:cursor-pointer text-gray-900 dark:text-white transition-opacity duration-200">
-                  CMSFullForm
+                  Sample Dashboard
                 </span>
               </Link>
             ) : (

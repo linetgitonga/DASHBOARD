@@ -16,9 +16,9 @@ export default function CMSDashboardContent() {
       {/* Page Header */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
-          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-white">CMS Full Form .com</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-white">Sample Dashboard</h1>
           <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
-            Forks & Likes this Project, and download Full Templates at CMSFullForm.com
+            Welcome to your content management dashboard! Here you can manage articles, categories, comments, and more.
           </p>
         </div>
         <div className="flex gap-2">
